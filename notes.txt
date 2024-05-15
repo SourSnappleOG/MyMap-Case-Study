@@ -1,0 +1,16 @@
+to run: npm start
+to deploy: npm run deploy
+(on master)
+
+
+
+
+
+
+
+
+
+
+
+
+
